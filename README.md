@@ -6,3 +6,4 @@
 - [Day 2](/aoc-2)
 - [Day 3](/aoc-3)
 - [Day 4](/aoc-4)
+- [Day 5](/aoc-5)
